@@ -4,14 +4,14 @@ Welcome to Sigil.Link, an independent [chainlink](https://chain.link) node opera
 
 Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tables below contain a complete list of the jobs on the Sigil.Link, as well as Mainnet and Ropsten oracle contract addresses. Verified jobs will be added as more data sources become available on the node. *all JobIDs tested have been verified as operational by Sigil.Link*. To contact Sigil.Link, follow and send a direct message via our [Twitter](https://twitter.com/sigildotlink)
 
-## Sigil.Link Oracle Contracts
+## Oracle Contracts
 
 | Network   | Contract Addresss                                 | 
 | --------  | -----------                                       | 
 | [Mainnet](https://etherscan.io/address/0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266)   | **`0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`**  |
 | [Ropsten](https://ropsten.etherscan.io/address/0x5471030a14ea46a32f065ac226516723b429ec2b)   | **`0x5471030a14ea46a32f065ac226516723b429ec2b`**  |
 
-## Sigil.Link Mainnet Oracle Jobs
+## Mainnet Chainlink Jobs
 
 | Job Summary                   | Job ID                                        | Cost (LINK)     |
 | -----------                   | -----------                                   | ---------       |
@@ -21,7 +21,7 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 | `Get > ethBytes32`            | `140b29bacc384c1f959b6d0b2c295346`            | 0.1             |
 | `Post > ethBytes32`           | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
 
-## Sigil.Link Ropsten Oracle Jobs
+## Ropsten Chainlink Jobs
 
 | Job Summary                   | Job ID                                        | Cost (LINK)     |
 | -----------                   | -----------                                   | ---------       |
