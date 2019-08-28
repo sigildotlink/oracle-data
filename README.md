@@ -8,19 +8,19 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 
 | Oracle Contract               | `0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`  | Cost (LINK)     |
 | -----------                   | -----------                                 | ---------       |
-| Get > ethBool                 | `1e107ae335fa4a51b6e2784d1114b125`            | 0.1             | 
-| Get > multiply(100) > ethUint | `6ba2524735964832a56abb66f004fbed`            | 0.1             |
-| Get > multiply(100) > ethInt  | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
+| `Get > ethBool`                 | `1e107ae335fa4a51b6e2784d1114b125`            | 0.1             | 
+| Get > multiply > ethUint | `6ba2524735964832a56abb66f004fbed`            | 0.1             |
+| Get > multiply > ethInt  | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
 | Get > ethBytes32              | `140b29bacc384c1f959b6d0b2c295346`           | 0.1             |
 | Post > ethBytes32             | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
 
 ## Sigil.Link Ropsten Oracle
 
 | Oracle Contract               | `0x5471030a14ea46a32f065ac226516723b429ec2b`  | Cost (LINK)     |
-| -----------                   | -----------                                 | ---------       |
+| -----------                   | -----------                                   | ---------       |
 | Get > ethBool                 | `46c2ce00a08540798477eddca9df4dbd`            | 0.001           | 
-| Get > multiply(100) > ethUint | `fb944cd0c8e842aea56c14ace05f1a95`            | 0.001           |
-| Get > multiply(100) > ethInt  | `8f5e01e3a59a4178ba884b6bffc0782e`            | 0.001           |
+| Get > multiply > ethUint      | `fb944cd0c8e842aea56c14ace05f1a95`            | 0.001           |
+| Get > multiply > ethInt       | `8f5e01e3a59a4178ba884b6bffc0782e`            | 0.001           |
 | Get > ethBytes32              | `44a7a8bd832d4849a2fc2be9aa5c1e41`            | 0.001           |
 | Post > ethBytes32             | `62e4c739814344f5b151225cbee1eba7`            | 0.001           |
 
