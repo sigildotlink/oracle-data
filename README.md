@@ -6,13 +6,15 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 
 ## Sigil.Link Mainnet Oracle
 
-| Oracle Contract               | `0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`  | Cost (LINK)     |
-| -----------                   | -----------                                 | ---------       |
-| `Get > ethBool`                 | `1e107ae335fa4a51b6e2784d1114b125`            | 0.1             | 
-| Get > multiply > ethUint | `6ba2524735964832a56abb66f004fbed`            | 0.1             |
-| Get > multiply > ethInt  | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
-| Get > ethBytes32              | `140b29bacc384c1f959b6d0b2c295346`           | 0.1             |
-| Post > ethBytes32             | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
+| Oracle Contract               | `0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`  |                 |
+| -----------                   | -----------                                   | ---------       |
+| Job Summary                   | Job ID                                        | Cost (LINK)     |
+| -----------                   | -----------                                   | ---------       |
+| `Get > ethBool`               | `1e107ae335fa4a51b6e2784d1114b125`            | 0.1             | 
+| `Get > multiply > ethUint`    | `6ba2524735964832a56abb66f004fbed`            | 0.1             |
+| `Get > multiply > ethInt`     | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
+| `Get > ethBytes32`            | `140b29bacc384c1f959b6d0b2c295346`            | 0.1             |
+| `Post > ethBytes32`           | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
 
 ## Sigil.Link Ropsten Oracle
 
