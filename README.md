@@ -1,6 +1,6 @@
 # Welcome to Sigil.Link
 
-Welcome to Sigil.Link, an independent chainlink node operator. Sigil provides a high quality oracle service for Ethereum smart contracts running on Mainnet and the Ropsten test network. Sigil.Link supports the philosophical concept of security through decentralization, and will always remain independent and impartial. 
+Welcome to Sigil.Link, an independent [chainlink](https://chain.link) node operator. Sigil provides a high quality oracle service for Ethereum smart contracts running on Mainnet and the Ropsten test network. Sigil.Link supports the philosophical concept of security through decentralization, and will always remain independent and impartial. 
 
 Sigil.Link maintains two nodes on the Ethereum Mainnet and Ropsten Testnet respectively. The tables below contain a complete list of the jobs on the Sigil.Link, as well as Mainnet and Ropsten oracle contract addresses. Verified jobs will be added as more data sources become available on the node. *all JobIDs tested have been verified as operational by Sigil.Link*. To contact Sigil.Link, follow and send a direct message via our [Twitter](https://twitter.com/sigildotlink)
 
