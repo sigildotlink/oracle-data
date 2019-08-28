@@ -33,6 +33,6 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 
 ## LinkPool Market 
 
-Sigil.Link is a verified node on [Linkpool Market](https://market.link). The on-chain verification process provided by Linkpool provides a guarantee of responsivity of the node by initiating job requests to the node [(txHash)](https://etherscan.io/tx/0x3e1c28f961434d8cf11403f059420805b818da34261c40de583fcde99025d609). To visit the node on Linkpool Market: 
+Sigil.Link is a verified node [(txHash)](https://etherscan.io/tx/0x3e1c28f961434d8cf11403f059420805b818da34261c40de583fcde99025d609) on [Linkpool Market](https://market.link). The on-chain verification process provided by Linkpool provides a guarantee of responsivity of the node by initiating job requests to the node. To visit the node on Linkpool Market: 
 
 [https://market.link/nodes/0d230f5d-c1e8-457c-bb68-f9b52448c6f6](https://market.link/nodes/0d230f5d-c1e8-457c-bb68-f9b52448c6f6)
