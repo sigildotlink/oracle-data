@@ -6,7 +6,7 @@ Sigil.Link maintains two nodes on the Ethereum Mainnet and Ropsten Testnet respe
 
 ## Sigil.Link Mainnet Oracle
 
-| Oracle Contract               | 0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266  | Cost (LINK)     |
+| Oracle Contract               | `0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`  | Cost (LINK)     |
 | -----------                   | -----------                                 | ---------       |
 | Get > ethBool                 | 1e107ae335fa4a51b6e2784d1114b125            | 0.1             | 
 | Get > multiply(100) > ethUint | 6ba2524735964832a56abb66f004fbed            | 0.1             |
@@ -24,7 +24,7 @@ Sigil.Link maintains two nodes on the Ethereum Mainnet and Ropsten Testnet respe
 | Get > ethBytes32              | 44a7a8bd832d4849a2fc2be9aa5c1e41            | 0.001           |
 | Post > ethBytes32             | 62e4c739814344f5b151225cbee1eba7            | 0.001           |
 
-# LinkPool Market 
+## LinkPool Market 
 
 Sigil.Link is a verified node on [Linkpool Market](https://market.link). The verification process provided by Linkpool provides a guarantee of responsivity of the node. To visit the node on Linkpool Market: 
 
