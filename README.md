@@ -6,8 +6,10 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 
 ## Sigil.Link Oracle Contracts
 
-| Mainnet  | **`0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`**  |
-| Ropsten  | **`0x5471030a14ea46a32f065ac226516723b429ec2b`**  |
+| Network   | Contract Addresss                                 | 
+| --------  | -----------                                       | 
+| Mainnet   | **`0x8fc8aa0ac524b31ddf0f5ee6331fae02550ae266`**  |
+| Ropsten   | **`0x5471030a14ea46a32f065ac226516723b429ec2b`**  |
 
 ## Sigil.Link Mainnet Oracle Jobs
 
