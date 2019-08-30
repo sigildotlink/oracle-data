@@ -20,6 +20,7 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 | `Get > multiply > ethInt`     | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
 | `Get > ethBytes32`            | `140b29bacc384c1f959b6d0b2c295346`            | 0.1             |
 | `Post > ethBytes32`           | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
+| `Alpha Vantage`               | `b0a1a329388847d081b9853d2f9635f5`            | 0.1             |
 
 ## Ropsten Chainlink Jobs
 
@@ -30,6 +31,7 @@ Sigil.Link maintains nodes on the Ethereum Mainnet and Ropsten Testnet. The tabl
 | `Get > multiply > ethInt`     | `8f5e01e3a59a4178ba884b6bffc0782e`            | 0.001           |
 | `Get > ethBytes32`            | `44a7a8bd832d4849a2fc2be9aa5c1e41`            | 0.001           |
 | `Post > ethBytes32`           | `62e4c739814344f5b151225cbee1eba7`            | 0.001           |
+| `Alpha Vantage`               | `b9b6eb25eb0a490b94474d226f58a7f1`            | 0.001           |
 
 ## LinkPool Market 
 
