@@ -33,8 +33,8 @@ The tables below contain the Mainnet and Ropsten Testnet oracle contract address
 | `Post > ethBytes32`           | `62e4c739814344f5b151225cbee1eba7`            | 0.001           |
 | `Alpha Vantage`               | `b9b6eb25eb0a490b94474d226f58a7f1`            | 0.001           |
 
-## Verified Nodes on LinkPool Market 
+## LinkPool Market Verified Nodes
 
-Our nodes have been verified via [Linkpool's](https://www.linkpool.io/) verification contracts and are listed on [Linkpool Market](https://market.link). The on-chain verification process provided by Linkpool provides a guarantee of responsivity of the node by initiating job requests.
+Both nodes have been verified via [Linkpool's](https://www.linkpool.io/) verification contracts and are listed on [Linkpool Market](https://market.link). The on-chain verification process provided by Linkpool provides a guarantee of responsivity of the node by initiating real job requests via contracts which demand fufillment.
 
-Transaction hashes for on-chain verification are publshed for the our [Mainnet](https://etherscan.io/tx/0x3e1c28f961434d8cf11403f059420805b818da34261c40de583fcde99025d609) and [Ropsten Testnet](https://ropsten.etherscan.io/tx/0x88a17683e9d052f263ecc2e561ce5e1a770ef93e82d7022b7e04e31be4d53fd6) chainlink nodes. [Visit the node on Linkpool Market](https://market.link/nodes/0d230f5d-c1e8-457c-bb68-f9b52448c6f6)
+Transaction hashes for on-chain verification are publshed for the [Mainnet](https://etherscan.io/tx/0x3e1c28f961434d8cf11403f059420805b818da34261c40de583fcde99025d609) and [Ropsten Testnet](https://ropsten.etherscan.io/tx/0x88a17683e9d052f263ecc2e561ce5e1a770ef93e82d7022b7e04e31be4d53fd6) chainlink nodes. [Visit the node on Linkpool Market](https://market.link/nodes/0d230f5d-c1e8-457c-bb68-f9b52448c6f6)
