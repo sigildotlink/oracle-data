@@ -26,12 +26,12 @@ The tables below contain the Mainnet and Ropsten Testnet oracle contract address
 
 | Job Summary                   | Job ID                                        | Cost (LINK)     |
 | -----------                   | -----------                                   | ---------       |
-| `Get > ethBool`               | `46c2ce00a08540798477eddca9df4dbd`            | 0.001           | 
-| `Get > multiply > ethUint`    | `fb944cd0c8e842aea56c14ace05f1a95`            | 0.001           |
-| `Get > multiply > ethInt`     | `8f5e01e3a59a4178ba884b6bffc0782e`            | 0.001           |
-| `Get > ethBytes32`            | `44a7a8bd832d4849a2fc2be9aa5c1e41`            | 0.001           |
-| `Post > ethBytes32`           | `62e4c739814344f5b151225cbee1eba7`            | 0.001           |
-| `Alpha Vantage`               | `b9b6eb25eb0a490b94474d226f58a7f1`            | 0.001           |
+| `Get > ethBool`               | `1619b2215fb24eabad63c7acee9cf250`            | 0.001           | 
+| `Get > multiply > ethUint`    | `15d7f7a2f35143eca5ab5242414d6766`            | 0.001           |
+| `Get > multiply > ethInt`     | `7e75ce0f80d043dca4993cb419943a54`            | 0.001           |
+| `Get > ethBytes32`            | `5f485d7bb77b42519a0991229fee1c52`            | 0.001           |
+| `Post > ethBytes32`           | `0e9e32c7e4d144c4a4da599afb5c678b`            | 0.001           |
+| `Alpha Vantage`               | `c959094adea64e27b5de33b421023dd9`            | 0.001           |
 
 ## LinkPool Market Verified Nodes
 
