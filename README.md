@@ -35,6 +35,11 @@ The tables below contain the Mainnet and Ropsten Testnet oracle contract address
 | `Get > multiply > ethInt`     | `3324c19ea6514222987da3a7f0e794a3`            | 0.1             |
 | `Get > ethBytes32`            | `140b29bacc384c1f959b6d0b2c295346`            | 0.1             |
 | `Post > ethBytes32`           | `dd46e746608d4a03aba9d5aee7574cc5`            | 0.1             |
+| `cryptocompare-ea > BTCUSD`   | `1e9d8196d4c2450aa7747bf873272c3e`            | 0.1             | 
+| `cryptocompare-ea > ETHUSD`   | `dff0cce37f4f47fa9f80a98ed3f0f094`            | 0.1             |
+| `cryptocompare-ea > LINKUSD`  | `42d120061ef14887b686062284d50e29`            | 0.1             |
+| `cryptocompare-ea > UBTUSD`   | `dfcd2fed56714496bbe1db34091a1183`            | 0.1             |
+| `cryptocompare-ea > SNXUSD`   | `98a50addd145447a85f4d836cd32a1ad`            | 0.1             |
 | `Alpha Vantage`               | `b0a1a329388847d081b9853d2f9635f5`            | 0.1             |
 
 ## LinkPool Market Verified Nodes
